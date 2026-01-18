@@ -1,0 +1,7 @@
+setup.py
+Student_Performace_Indicator.egg-info/PKG-INFO
+Student_Performace_Indicator.egg-info/SOURCES.txt
+Student_Performace_Indicator.egg-info/dependency_links.txt
+Student_Performace_Indicator.egg-info/requires.txt
+Student_Performace_Indicator.egg-info/top_level.txt
+src/__init__.py

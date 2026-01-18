@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Student-Performace-Indicator
+Version: 0.0.1
+Author: Anand Mansabdar
+Author-email: anandmansabdar4@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
