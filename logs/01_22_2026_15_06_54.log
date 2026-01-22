@@ -5,3 +5,4 @@
 [2026-01-22 15:07:50,247] 97 werkzeug - INFO - 127.0.0.1 - - [22/Jan/2026 15:07:50] "[33mGET /predict HTTP/1.1[0m" 404 -
 [2026-01-22 15:08:05,012] 97 werkzeug - INFO - 127.0.0.1 - - [22/Jan/2026 15:08:05] "GET /predictdata HTTP/1.1" 200 -
 [2026-01-22 15:08:28,405] 97 werkzeug - INFO - 127.0.0.1 - - [22/Jan/2026 15:08:28] "POST /predictdata HTTP/1.1" 200 -
+[2026-01-22 20:10:53,971] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\anand\\Desktop\\Student Performace Indicator\\app.py', reloading
