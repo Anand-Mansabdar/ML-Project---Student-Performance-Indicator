@@ -1,0 +1,15 @@
+[2026-03-13 22:42:57,037] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-03-13 22:42:57,044] 97 werkzeug - INFO -  * Debugger PIN: 119-723-147
+[2026-03-13 22:43:06,842] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 22:43:06] "GET / HTTP/1.1" 200 -
+[2026-03-13 22:43:07,070] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 22:43:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2026-03-13 22:43:07,209] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 22:43:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2026-03-13 22:43:19,885] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 22:43:19] "GET /predictdata HTTP/1.1" 200 -
+[2026-03-13 22:49:13,289] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 22:49:13] "GET /predictdata HTTP/1.1" 200 -
+[2026-03-13 22:49:18,069] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 22:49:18] "GET / HTTP/1.1" 200 -
+[2026-03-13 22:58:11,499] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 22:58:11] "GET /predictdata HTTP/1.1" 200 -
+[2026-03-13 22:58:28,873] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 22:58:28] "GET /predictdata HTTP/1.1" 200 -
+[2026-03-13 22:58:30,130] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 22:58:30] "GET /predictdata HTTP/1.1" 200 -
+[2026-03-13 23:09:31,179] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 23:09:31] "GET /predictdata HTTP/1.1" 200 -
+[2026-03-13 23:14:29,417] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 23:14:29] "GET /predictdata HTTP/1.1" 200 -
+[2026-03-13 23:16:57,416] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 23:16:57] "GET /predictdata HTTP/1.1" 200 -
+[2026-03-13 23:17:29,963] 97 werkzeug - INFO - 127.0.0.1 - - [13/Mar/2026 23:17:29] "POST /predictdata HTTP/1.1" 200 -
